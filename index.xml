@@ -52,5 +52,14 @@
       <description>Contenido.</description>
     </item>
     
+    <item>
+      <title>U2: Encargo 01</title>
+      <link>https://fernandaaraya.github.io/docs/u2-encargo01/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://fernandaaraya.github.io/docs/u2-encargo01/</guid>
+      <description>Contenido encargo 1.</description>
+    </item>
+    
   </channel>
 </rss>
